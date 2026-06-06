@@ -32,6 +32,15 @@ How to Run
 4. Enter the SGPA for each semester.
 5. Click Calculate CGPA to view the result.
 
+
+## Screenshots
+
+### Home Page
+![Home Page](images/home.png)
+
+### Result Page
+![Result Page](images/result.png)
+
 Example
 
 Semester 1: 8.5
