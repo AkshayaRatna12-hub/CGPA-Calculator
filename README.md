@@ -43,12 +43,14 @@ How to Run
 
 Example
 
-Semester 1: 8.5
-Semester 2: 9.0
-Semester 3: 8.0
-Semester 4: 9.5
+Semester 1: 8.54
+Semester 2: 8.07
+Semester 3: 8.37
+Semester 4: 8.50
+Semester 5: 8.04
+Semester 6: 8.04
 
-CGPA: 8.75
+CGPA: 8.26
 
 Author
 
